@@ -47,8 +47,8 @@ Create a Journal called 'Credit card payments' with the following data:
 -  **Default debit account**: Credit cards
 -  **Default credit account**: Credit cards
 
-Once it's done, don't forget to set the "Credit cards" account as "Allow
-Reconciliation".
+Be careful that the type of the account should not be "Bank and Cash". 
+Once it's done, don't forget to set the "Credit cards" account as "Allow Reconciliation".
 
 .. image:: ./media/credit01.png
   :align: center
