@@ -31,7 +31,7 @@ approach.
 
 Even if the first method is cleaner, Odoo support the second approach
 because some accountants are used to it (*QuickBooks* and *Peachtree*
-users).
+users). TEST
 
 Option 1: Undeposited Funds
 ===========================
